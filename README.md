@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Sagarika 👋
 
-<!--
-**sagarikamadhukar/sagarikamadhukar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year Computer Science Engineering Student  
+💻 Interested in Programming, Web Development & Technology  
+🌱 Currently learning Data Structures and Algorithms
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C Programming
+- Python
+- Web Development
+- PowerPoint
+- Canva
+- Communication
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Java
+- Git & GitHub
+- Improving my programming skills
+
+## 🚀 Projects
+
+### 💊 Drug Concentration Stabilization Project
+Academic project focused on maintaining stable drug concentration.
+
+### 🌐 Homestay Website
+A basic website developed using web development technologies.
+
+### 🐾 Smart Animal Deterrent System
+A project designed to help protect farms from animal intrusion.
+
+### 💻 Programming Practice
+Basic programming programs using C and Python.
+
+## 📜 Certifications
+
+- Deloitte – Technology Job Simulation
+- Infosys – Programming in C
+
+## 🎯 Interests
+
+- Programming
+- Content Creation
+- Presentation Designing
+
+## 📫 Connect With Me
+
+📧 Email: Sagarikamadhukar@gmail.com
